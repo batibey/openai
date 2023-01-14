@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "openai.B": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
